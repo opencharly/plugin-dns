@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-dns:
     candy:
+        version: 2026.176.1900
         description: |-
             The `dns` check verb relocated into a candy: a name-resolution probe
             (in-container `getent hosts` under charly check box, host-side
